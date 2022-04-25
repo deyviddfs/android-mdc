@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android MDC</string>
+    <string name="cpf">CPF</string>
+    <string name="name">Nome</string>
+    <string name="ddd">DDD</string>
+    <string name="phone">Telefone</string>
+    <string name="address">Endereço</string>
+    <string name="number">Número</string>
+    <string name="complement">Complemento</string>
+    <string name="birthday">Data de Nascimento</string>
+    <string name="save">Salvar</string>
+    <string name="reset">Limpar</string>
+</resources>
